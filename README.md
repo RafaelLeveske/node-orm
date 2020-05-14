@@ -65,7 +65,7 @@ O comando irá criar a pasta node_modules, a qual deverá ser inclusa em um arqu
 
 Agora vamos a instalação das depêndencias.
 
-O primeiro passo é instalar o nodemon, que é uma depêndencia na maioria das vezes apenas usada em ambiente de sesenvolvimento, que serve para monitorar mudanças no nosso código e automaticamente atualizar o servidor, então para isso digite o comando:
+O primeiro passo é instalar o nodemon, que é uma depêndencia na maioria das vezes apenas usada em ambiente de desenvolvimento, que serve para monitorar mudanças no nosso código e automaticamente atualizar o servidor, então para isso digite o comando:
 
 ```
 npm install nodemon -D
